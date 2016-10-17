@@ -1,0 +1,5 @@
+/Users/margretunnarsdottir/Documents/ARU/C#/Circle/Circle/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/margretunnarsdottir/Documents/ARU/C#/Circle/Circle/bin/Debug/Circle.exe.mdb
+/Users/margretunnarsdottir/Documents/ARU/C#/Circle/Circle/bin/Debug/Circle.exe
+/Users/margretunnarsdottir/Documents/ARU/C#/Circle/Circle/obj/x86/Debug/Circle.exe
+/Users/margretunnarsdottir/Documents/ARU/C#/Circle/Circle/obj/x86/Debug/Circle.exe.mdb
